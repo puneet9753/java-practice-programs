@@ -12,9 +12,6 @@ public class Main {
         list.addNodeAtLast(13);
         list.addNodeAtLast(15);
         try {
-            //System.out.println("Element value at position: " + list.getNode(3).getNodeValue());
-            //  list.addNodeAtGivenPosition(100, 1);
-            //  list.deleteNode(1);
             list.insertInSortedList(-55);
         } catch (Exception e) {
             e.printStackTrace();
