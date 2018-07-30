@@ -30,7 +30,7 @@ public class Main {
         LinkedListNode resultNode = list.findNThNodeFromEnd(0);
 
         if(resultNode != null)
-            System.out.println("Here is the result---->>>>" + list.findNThNodeFromEnd(0).getNodeValue());
+            System.out.println("Result list - > " + list.findNThNodeFromEnd(0).getNodeValue());
         else
             System.out.println("result is null.....");
     }
