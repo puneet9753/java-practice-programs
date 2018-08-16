@@ -1,7 +1,7 @@
 package com.datastructure;
 
 import java.util.ArrayList;
-
+// LinkList Class created.
 public class LinkedList {
     LinkedListNode headNode;
     private int length = 0;
