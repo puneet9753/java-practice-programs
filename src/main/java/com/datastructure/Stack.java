@@ -58,4 +58,9 @@ public class Stack {
         }
         return result.toString();
     }
+
+
+    public void balanceBrackets(){
+
+    }
 }
